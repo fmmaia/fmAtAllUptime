@@ -1,7 +1,7 @@
 - url: https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-19T19:26:44.086Z
+- status: up
+- code: 200
+- responseTime: 820
+- lastUpdated: 2020-11-19T19:38:39.848Z
 - startTime: 2020-11-19T19:14:14.347Z
 - generator: Upptime <https://github.com/upptime/upptime>
