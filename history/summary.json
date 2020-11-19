@@ -3,32 +3,32 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 61
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 137
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "Site 1",
+    "url": "https://fmath.duckdns.org",
+    "slug": "site-1",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 875
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Site 2",
+    "url": "https://fmath.duckdns.org:10443",
+    "slug": "site-2",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "21.86",
     "time": 0
   },
   {
