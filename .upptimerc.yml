@@ -11,7 +11,7 @@ sites:
   - name: Site 1
     url: https://fmath.duckdns.org
   - name: Site 2
-    url: https://fmath.duckdns.org:10443
+    url: https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index
   - name: Secret Site
     url: $SECRET_SITE
 
