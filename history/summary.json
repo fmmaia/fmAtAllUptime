@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 156
+    "time": 149
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 188
+    "time": 179
   },
   {
     "name": "Site 1",
@@ -21,7 +21,7 @@
     "slug": "site-1",
     "status": "up",
     "uptime": "100.00",
-    "time": 772
+    "time": 768
   },
   {
     "name": "Site 2",
@@ -29,14 +29,14 @@
     "slug": "site-2",
     "status": "up",
     "uptime": "100.00",
-    "time": 407
+    "time": 464
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.79",
+    "uptime": "98.81",
     "time": 0
   }
 ]
