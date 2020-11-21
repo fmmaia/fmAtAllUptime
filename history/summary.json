@@ -19,9 +19,9 @@
     "name": "Site 1",
     "url": "https://fmath.duckdns.org",
     "slug": "site-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 672
+    "time": 743
   },
   {
     "name": "Site 2",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.08",
+    "uptime": "98.07",
     "time": 0
   }
 ]
