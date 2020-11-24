@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 135
+    "time": 131
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 183
+    "time": 185
   },
   {
     "name": "Site 1",
@@ -21,22 +21,22 @@
     "slug": "site-1",
     "status": "up",
     "uptime": "100.00%",
-    "time": 756
+    "time": 764
   },
   {
     "name": "Site 2",
     "url": "https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index",
     "slug": "site-2",
     "status": "up",
-    "uptime": "99.47%",
-    "time": 584
+    "uptime": "99.60%",
+    "time": 604
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.92%",
+    "uptime": "96.00%",
     "time": 0
   }
 ]
