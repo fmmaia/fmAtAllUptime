@@ -19,16 +19,16 @@
     "name": "Site 1",
     "url": "https://fmath.duckdns.org",
     "slug": "site-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 764
+    "time": 705
   },
   {
     "name": "Site 2",
     "url": "https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index",
     "slug": "site-2",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.64%",
     "time": 604
   },
   {
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.00%",
+    "uptime": "95.60%",
     "time": 0
   }
 ]
