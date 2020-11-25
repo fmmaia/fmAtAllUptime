@@ -13,8 +13,13 @@ sites:
   - name: Site 2
     url: https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index
     __dangerous__insecure: true
-  - name: Secret Site
+  - name: Site Mail
+    url: $SECRET_SITE1
+  - name: Site nxtc
+    url: $SECRET_SITE2
+  - name: Site suite3
     url: $SECRET_SITE
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
