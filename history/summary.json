@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 126
+    "time": 123
   },
   {
     "name": "Wikipedia",
@@ -13,30 +13,46 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 188
+    "time": 190
   },
   {
     "name": "Site 1",
     "url": "https://fmath.duckdns.org",
     "slug": "site-1",
     "status": "up",
-    "uptime": "99.54%",
-    "time": 684
+    "uptime": "99.58%",
+    "time": 693
   },
   {
     "name": "Site 2",
     "url": "https://fmath.duckdns.org:10443/suitecrm/index.php?module=Home&action=index",
     "slug": "site-2",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 621
+    "uptime": "99.48%",
+    "time": 647
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Site Mail",
+    "url": "$SECRET_SITE1",
+    "slug": "site-mail",
     "status": "down",
-    "uptime": "95.10%",
+    "uptime": "3.43%",
+    "time": 0
+  },
+  {
+    "name": "Site nxtc",
+    "url": "$SECRET_SITE2",
+    "slug": "site-nxtc",
+    "status": "down",
+    "uptime": "2.12%",
+    "time": 0
+  },
+  {
+    "name": "Site suite3",
+    "url": "$SECRET_SITE",
+    "slug": "site-suite3",
+    "status": "down",
+    "uptime": "8.00%",
     "time": 0
   }
 ]
