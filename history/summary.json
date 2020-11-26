@@ -19,9 +19,9 @@
     "name": "Site Mail",
     "url": "$SECRET_SITE_3",
     "slug": "site-mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 3636
+    "status": "down",
+    "uptime": "99.95%",
+    "time": 3116
   },
   {
     "name": "Site nxtc",
@@ -35,8 +35,8 @@
     "name": "Site suite",
     "url": "$SECRET_SITE_1",
     "slug": "site-suite",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 2702
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 2026
   }
 ]
