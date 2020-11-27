@@ -13,15 +13,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 194
+    "time": 192
   },
   {
     "name": "Site Mail",
     "url": "$SECRET_SITE_3",
     "slug": "site-mail",
     "status": "up",
-    "uptime": "95.94%",
-    "time": 2900
+    "uptime": "97.09%",
+    "time": 3241
   },
   {
     "name": "Site nxtc",
@@ -29,14 +29,14 @@
     "slug": "site-nxtc",
     "status": "up",
     "uptime": "100.00%",
-    "time": 597
+    "time": 629
   },
   {
     "name": "Site suite",
     "url": "$SECRET_SITE_1",
     "slug": "site-suite",
     "status": "up",
-    "uptime": "95.93%",
-    "time": 1833
+    "uptime": "97.09%",
+    "time": 1659
   }
 ]
