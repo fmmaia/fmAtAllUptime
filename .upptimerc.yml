@@ -17,6 +17,8 @@ sites:
     url: $SECRET_SITE_3
   - name: Site nxtc
     url: $SECRET_SITE_2
+      - name: Site nxtcATS
+    url: $SECRET_SITE_4
   - name: Site suite
     url: $SECRET_SITE_1
     __dangerous__insecure: true
