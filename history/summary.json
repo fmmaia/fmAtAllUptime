@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 116
+    "time": 114
   },
   {
     "name": "Wikipedia",
@@ -13,15 +13,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 187
+    "time": 189
   },
   {
     "name": "Site Mail",
     "url": "$SECRET_SITE_3",
     "slug": "site-mail",
     "status": "up",
-    "uptime": "98.47%",
-    "time": 3569
+    "uptime": "98.48%",
+    "time": 3774
   },
   {
     "name": "Site nxtc",
@@ -29,14 +29,14 @@
     "slug": "site-nxtc",
     "status": "up",
     "uptime": "98.89%",
-    "time": 708
+    "time": 717
   },
   {
     "name": "Site nxtcATS",
     "url": "$SECRET_SITE_4",
     "slug": "site-nxtc-ats",
     "status": "down",
-    "uptime": "0.84%",
+    "uptime": "0.09%",
     "time": 0
   },
   {
@@ -44,7 +44,7 @@
     "url": "$SECRET_SITE_1",
     "slug": "site-suite",
     "status": "up",
-    "uptime": "97.36%",
-    "time": 1865
+    "uptime": "97.37%",
+    "time": 1795
   }
 ]
