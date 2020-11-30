@@ -20,31 +20,31 @@
     "url": "$SECRET_SITE_3",
     "slug": "site-mail",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "time": 4211
   },
   {
     "name": "Site nxtc",
     "url": "$SECRET_SITE_2",
     "slug": "site-nxtc",
-    "status": "down",
-    "uptime": "99.31%",
-    "time": 680
+    "status": "up",
+    "uptime": "98.45%",
+    "time": 682
   },
   {
     "name": "Site nxtcATS",
     "url": "$SECRET_SITE_4",
     "slug": "site-nxtc-ats",
-    "status": "down",
-    "uptime": "98.97%",
-    "time": 241
+    "status": "up",
+    "uptime": "96.82%",
+    "time": 323
   },
   {
     "name": "Site suite",
     "url": "$SECRET_SITE_1",
     "slug": "site-suite",
-    "status": "down",
-    "uptime": "98.40%",
-    "time": 1498
+    "status": "up",
+    "uptime": "97.54%",
+    "time": 1456
   }
 ]
