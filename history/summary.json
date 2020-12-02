@@ -27,9 +27,9 @@
     "name": "Site nxtc",
     "url": "$SECRET_SITE_2",
     "slug": "site-nxtc",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "time": 645
+    "time": 644
   },
   {
     "name": "Site nxtcATS",
