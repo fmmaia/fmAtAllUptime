@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 104
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 110,
+    "timeDay": 69,
+    "timeWeek": 88,
+    "timeMonth": 110,
+    "timeYear": 110
   },
   {
     "name": "Wikipedia",
@@ -13,38 +21,78 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 173
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 175,
+    "timeDay": 19,
+    "timeWeek": 127,
+    "timeMonth": 175,
+    "timeYear": 175
   },
   {
     "name": "Site Mail",
     "url": "$SECRET_SITE_3",
     "slug": "site-mail",
     "status": "up",
-    "uptime": "99.38%",
-    "time": 4383
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 4975,
+    "timeDay": 5667,
+    "timeWeek": 5229,
+    "timeMonth": 4975,
+    "timeYear": 4975
   },
   {
     "name": "Site nxtc",
     "url": "$SECRET_SITE_2",
     "slug": "site-nxtc",
     "status": "up",
-    "uptime": "98.95%",
-    "time": 618
+    "uptime": "98.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 775,
+    "timeDay": 646,
+    "timeWeek": 794,
+    "timeMonth": 775,
+    "timeYear": 775
   },
   {
     "name": "Site nxtcATS",
     "url": "$SECRET_SITE_4",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "98.56%",
-    "time": 331
+    "uptime": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 553,
+    "timeDay": 452,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553
   },
   {
     "name": "Site suite",
     "url": "$SECRET_SITE_1",
     "slug": "site-suite",
     "status": "up",
-    "uptime": "98.34%",
-    "time": 1366
+    "uptime": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
+    "time": 1564,
+    "timeDay": 619,
+    "timeWeek": 1320,
+    "timeMonth": 1564,
+    "timeYear": 1564
   }
 ]
