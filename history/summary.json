@@ -40,9 +40,9 @@
     "url": "$SECRET_SITE_3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.18%",
@@ -52,6 +52,7 @@
     "timeMonth": 5189,
     "timeYear": 5189,
     "dailyMinutesDown": {
+      "2020-12-08": 0,
       "2020-12-03": 84,
       "2020-11-26": 65
     }
