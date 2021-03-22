@@ -73,7 +73,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "96.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
