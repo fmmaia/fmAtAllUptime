@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 64,
-    "timeWeek": 90,
+    "timeDay": 72,
+    "timeWeek": 80,
     "timeMonth": 106,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 281,
-    "timeWeek": 229,
-    "timeMonth": 264,
+    "timeDay": 72,
+    "timeWeek": 208,
+    "timeMonth": 257,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2021-07-16": 23,
@@ -50,11 +50,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.51%",
-    "time": 1549,
-    "timeDay": 789,
-    "timeWeek": 983,
-    "timeMonth": 1009,
+    "uptimeYear": "99.55%",
+    "time": 1548,
+    "timeDay": 1105,
+    "timeWeek": 981,
+    "timeMonth": 1017,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2021-12-11": 84,
@@ -67,8 +67,7 @@
       "2021-02-17": 372,
       "2021-02-16": 72,
       "2021-02-06": 63,
-      "2021-02-05": 16,
-      "2020-12-14": 763
+      "2021-02-05": 16
     }
   },
   {
@@ -78,17 +77,17 @@
     "slug": "site-nxtc",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "87.12%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.35%",
-    "time": 1153,
-    "timeDay": 762,
-    "timeWeek": 833,
-    "timeMonth": 809,
-    "timeYear": 1180,
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.38%",
+    "time": 1152,
+    "timeDay": 797,
+    "timeWeek": 840,
+    "timeMonth": 815,
+    "timeYear": 1181,
     "dailyMinutesDown": {
-      "2021-12-13": 186,
+      "2021-12-13": 180,
       "2021-12-09": 87,
       "2021-11-29": 87,
       "2021-11-22": 62,
@@ -159,8 +158,7 @@
       "2021-01-01": 46,
       "2020-12-28": 68,
       "2020-12-23": 27,
-      "2020-12-21": 90,
-      "2020-12-14": 535
+      "2020-12-21": 90
     }
   },
   {
@@ -170,17 +168,17 @@
     "slug": "site-nxtc-ats",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "87.21%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "87.55%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.48%",
     "time": 741,
-    "timeDay": 489,
-    "timeWeek": 486,
-    "timeMonth": 545,
-    "timeYear": 748,
+    "timeDay": 523,
+    "timeWeek": 485,
+    "timeMonth": 548,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2021-12-13": 184,
+      "2021-12-13": 179,
       "2021-12-09": 87,
       "2021-11-29": 86,
       "2021-11-22": 61,
@@ -248,8 +246,7 @@
       "2021-01-01": 46,
       "2020-12-28": 67,
       "2020-12-23": 26,
-      "2020-12-21": 90,
-      "2020-12-14": 43
+      "2020-12-21": 90
     }
   },
   {
@@ -264,9 +261,9 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "98.87%",
     "time": 831,
-    "timeDay": 815,
-    "timeWeek": 785,
-    "timeMonth": 797,
+    "timeDay": 901,
+    "timeWeek": 779,
+    "timeMonth": 801,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2021-12-13": 119,
@@ -327,8 +324,7 @@
       "2021-01-11": 88,
       "2021-01-04": 83,
       "2020-12-28": 67,
-      "2020-12-21": 89,
-      "2020-12-14": 43
+      "2020-12-21": 89
     }
   }
 ]
