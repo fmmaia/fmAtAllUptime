@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 75,
+    "timeDay": 74,
     "timeWeek": 76,
-    "timeMonth": 101,
+    "timeMonth": 97,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2021-11-29": 21
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 229,
-    "timeWeek": 186,
-    "timeMonth": 249,
+    "timeDay": 80,
+    "timeWeek": 187,
+    "timeMonth": 245,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2021-07-16": 23,
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.68%",
-    "time": 1543,
-    "timeDay": 1417,
-    "timeWeek": 1194,
-    "timeMonth": 1029,
+    "time": 1542,
+    "timeDay": 1039,
+    "timeWeek": 1185,
+    "timeMonth": 1034,
     "timeYear": 1221,
     "dailyMinutesDown": {
       "2021-12-11": 84,
@@ -78,14 +78,14 @@
     "status": "up",
     "uptime": "97.85%",
     "uptimeDay": "94.43%",
-    "uptimeWeek": "98.26%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.46%",
-    "time": 1149,
-    "timeDay": 787,
-    "timeWeek": 868,
-    "timeMonth": 861,
-    "timeYear": 1169,
+    "time": 1148,
+    "timeDay": 817,
+    "timeWeek": 909,
+    "timeMonth": 872,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2021-12-20": 80,
       "2021-12-13": 180,
@@ -158,8 +158,7 @@
       "2021-01-04": 118,
       "2021-01-01": 46,
       "2020-12-28": 68,
-      "2020-12-23": 27,
-      "2020-12-21": 90
+      "2020-12-23": 27
     }
   },
   {
@@ -168,15 +167,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "94.46%",
-    "uptimeWeek": "98.26%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.48%",
-    "time": 739,
-    "timeDay": 556,
-    "timeWeek": 561,
-    "timeMonth": 558,
+    "time": 738,
+    "timeDay": 516,
+    "timeWeek": 584,
+    "timeMonth": 564,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2021-12-20": 80,
@@ -247,8 +246,7 @@
       "2021-01-04": 118,
       "2021-01-01": 46,
       "2020-12-28": 67,
-      "2020-12-23": 26,
-      "2020-12-21": 90
+      "2020-12-23": 26
     }
   },
   {
@@ -259,14 +257,14 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "94.50%",
-    "uptimeWeek": "98.85%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.87%",
     "time": 830,
-    "timeDay": 773,
-    "timeWeek": 830,
-    "timeMonth": 822,
-    "timeYear": 803,
+    "timeDay": 671,
+    "timeWeek": 807,
+    "timeMonth": 827,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2021-12-20": 79,
       "2021-12-13": 119,
@@ -326,8 +324,7 @@
       "2021-01-18": 56,
       "2021-01-11": 88,
       "2021-01-04": 83,
-      "2020-12-28": 67,
-      "2020-12-21": 89
+      "2020-12-28": 67
     }
   }
 ]
