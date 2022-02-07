@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 63,
-    "timeWeek": 69,
+    "timeDay": 81,
+    "timeWeek": 73,
     "timeMonth": 80,
     "timeYear": 92,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 224,
-    "timeWeek": 173,
-    "timeMonth": 252,
+    "timeDay": 159,
+    "timeWeek": 170,
+    "timeMonth": 248,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2021-07-16": 23
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-mail",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.28%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1485,
-    "timeDay": 887,
-    "timeWeek": 933,
-    "timeMonth": 998,
-    "timeYear": 1209,
+    "timeDay": 1481,
+    "timeWeek": 1019,
+    "timeMonth": 1020,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2022-01-14": 752,
       "2021-12-11": 84,
@@ -74,16 +74,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-nxtc",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.43%",
     "uptimeMonth": "97.31%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.34%",
     "time": 1109,
-    "timeDay": 532,
-    "timeWeek": 801,
-    "timeMonth": 718,
-    "timeYear": 1122,
+    "timeDay": 914,
+    "timeWeek": 847,
+    "timeMonth": 728,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2022-01-31": 158,
       "2022-01-28": 239,
@@ -150,8 +150,7 @@
       "2021-02-22": 109,
       "2021-02-15": 141,
       "2021-02-10": 25,
-      "2021-02-08": 111,
-      "2021-02-07": 88
+      "2021-02-08": 111
     }
   },
   {
@@ -166,9 +165,9 @@
     "uptimeMonth": "97.32%",
     "uptimeYear": "98.35%",
     "time": 726,
-    "timeDay": 424,
-    "timeWeek": 570,
-    "timeMonth": 614,
+    "timeDay": 727,
+    "timeWeek": 610,
+    "timeMonth": 623,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2022-01-31": 157,
@@ -234,8 +233,7 @@
       "2021-02-22": 108,
       "2021-02-15": 140,
       "2021-02-10": 24,
-      "2021-02-08": 111,
-      "2021-02-07": 88
+      "2021-02-08": 111
     }
   },
   {
@@ -250,9 +248,9 @@
     "uptimeMonth": "97.45%",
     "uptimeYear": "98.72%",
     "time": 824,
-    "timeDay": 598,
-    "timeWeek": 717,
-    "timeMonth": 774,
+    "timeDay": 954,
+    "timeWeek": 761,
+    "timeMonth": 784,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2022-01-31": 110,
@@ -314,8 +312,7 @@
       "2021-02-23": 42,
       "2021-02-22": 62,
       "2021-02-15": 110,
-      "2021-02-08": 77,
-      "2021-02-07": 81
+      "2021-02-08": 77
     }
   }
 ]
