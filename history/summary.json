@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 64,
+    "time": 89,
+    "timeDay": 62,
     "timeWeek": 86,
-    "timeMonth": 81,
+    "timeMonth": 79,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2021-11-29": 21
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 206,
-    "timeWeek": 256,
-    "timeMonth": 260,
+    "timeDay": 239,
+    "timeWeek": 241,
+    "timeMonth": 257,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2021-07-16": 23
@@ -45,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "83.32%",
+    "uptime": "83.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.39%",
-    "time": 1113,
-    "timeDay": 679,
-    "timeWeek": 752,
-    "timeMonth": 731,
-    "timeYear": 1015,
+    "uptimeYear": "75.20%",
+    "time": 1112,
+    "timeDay": 661,
+    "timeWeek": 754,
+    "timeMonth": 732,
+    "timeYear": 1014,
     "dailyMinutesDown": {
-      "2022-06-06": 496,
+      "2022-06-07": 60,
+      "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
@@ -159,15 +160,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-nxtc",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "92.85%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "98.33%",
-    "time": 1073,
-    "timeDay": 805,
-    "timeWeek": 868,
-    "timeMonth": 923,
+    "time": 1072,
+    "timeDay": 844,
+    "timeWeek": 859,
+    "timeMonth": 925,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2022-06-06": 103,
@@ -239,8 +240,7 @@
       "2021-06-21": 315,
       "2021-06-15": 29,
       "2021-06-14": 180,
-      "2021-06-12": 30,
-      "2021-06-07": 88
+      "2021-06-12": 30
     }
   },
   {
@@ -249,15 +249,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "92.88%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "98.34%",
     "time": 717,
-    "timeDay": 1749,
-    "timeWeek": 920,
-    "timeMonth": 726,
+    "timeDay": 735,
+    "timeWeek": 922,
+    "timeMonth": 728,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2022-06-06": 103,
@@ -328,8 +328,7 @@
       "2021-06-28": 91,
       "2021-06-21": 293,
       "2021-06-14": 180,
-      "2021-06-12": 30,
-      "2021-06-07": 88
+      "2021-06-12": 30
     }
   },
   {
@@ -344,9 +343,9 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "98.69%",
     "time": 864,
-    "timeDay": 1183,
-    "timeWeek": 954,
-    "timeMonth": 1007,
+    "timeDay": 1197,
+    "timeWeek": 956,
+    "timeMonth": 1011,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2022-06-06": 102,
@@ -412,8 +411,7 @@
       "2021-06-28": 90,
       "2021-06-21": 292,
       "2021-06-14": 98,
-      "2021-06-12": 29,
-      "2021-06-07": 87
+      "2021-06-12": 29
     }
   }
 ]
