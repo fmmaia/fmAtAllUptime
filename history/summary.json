@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 361,
-    "timeWeek": 118,
-    "timeMonth": 92,
+    "timeDay": 88,
+    "timeWeek": 119,
+    "timeMonth": 93,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2021-11-29": 21
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 224,
-    "timeWeek": 212,
-    "timeMonth": 233,
-    "timeYear": 232,
+    "timeDay": 115,
+    "timeWeek": 213,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "68.66%",
+    "uptime": "68.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.74%",
-    "time": 958,
-    "timeDay": 756,
-    "timeWeek": 742,
-    "timeMonth": 730,
-    "timeYear": 904,
+    "uptimeYear": "42.59%",
+    "time": 956,
+    "timeDay": 956,
+    "timeWeek": 747,
+    "timeMonth": 741,
+    "timeYear": 903,
     "dailyMinutesDown": {
-      "2022-10-03": 766,
+      "2022-10-04": 87,
+      "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
@@ -277,14 +278,14 @@
     "slug": "site-nxtc",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "86.62%",
+    "uptimeDay": "89.10%",
     "uptimeWeek": "95.72%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "97.75%",
-    "time": 1222,
-    "timeDay": 6867,
-    "timeWeek": 4988,
-    "timeMonth": 2800,
+    "time": 1223,
+    "timeDay": 4101,
+    "timeWeek": 4987,
+    "timeMonth": 2804,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2022-10-03": 157,
@@ -359,8 +360,7 @@
       "2021-10-25": 138,
       "2021-10-18": 55,
       "2021-10-11": 132,
-      "2021-10-06": 32,
-      "2021-10-04": 62
+      "2021-10-06": 32
     }
   },
   {
@@ -370,14 +370,14 @@
     "slug": "site-nxtc-ats",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "85.91%",
+    "uptimeDay": "89.96%",
     "uptimeWeek": "94.72%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "97.71%",
-    "time": 875,
-    "timeDay": 3808,
-    "timeWeek": 3394,
-    "timeMonth": 1942,
+    "time": 876,
+    "timeDay": 3449,
+    "timeWeek": 3396,
+    "timeMonth": 1947,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2022-10-03": 144,
@@ -453,8 +453,7 @@
       "2021-10-25": 137,
       "2021-10-18": 55,
       "2021-10-11": 130,
-      "2021-10-06": 32,
-      "2021-10-04": 61
+      "2021-10-06": 32
     }
   },
   {
@@ -468,11 +467,11 @@
     "uptimeWeek": "96.64%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.11%",
-    "time": 998,
-    "timeDay": 5577,
-    "timeWeek": 2484,
-    "timeMonth": 1691,
-    "timeYear": 1051,
+    "time": 999,
+    "timeDay": 3674,
+    "timeWeek": 2483,
+    "timeMonth": 1701,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2022-10-03": 58,
       "2022-10-02": 89,
@@ -539,8 +538,7 @@
       "2021-10-25": 137,
       "2021-10-18": 54,
       "2021-10-11": 108,
-      "2021-10-06": 31,
-      "2021-10-04": 61
+      "2021-10-06": 31
     }
   }
 ]
