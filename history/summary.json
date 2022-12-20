@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 89,
-    "timeWeek": 94,
-    "timeMonth": 93,
+    "timeDay": 82,
+    "timeWeek": 81,
+    "timeMonth": 94,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 914,
-    "timeWeek": 286,
-    "timeMonth": 268,
-    "timeYear": 228,
+    "timeDay": 123,
+    "timeWeek": 288,
+    "timeMonth": 260,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "61.66%",
+    "uptime": "61.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.82%",
+    "uptimeYear": "21.64%",
     "time": 900,
-    "timeDay": 957,
-    "timeWeek": 808,
-    "timeMonth": 755,
-    "timeYear": 815,
+    "timeDay": 803,
+    "timeWeek": 815,
+    "timeMonth": 760,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2022-12-19": 531,
+      "2022-12-20": 58,
+      "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -347,15 +348,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "96.13%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "97.76%",
     "time": 1136,
-    "timeDay": 900,
-    "timeWeek": 950,
-    "timeMonth": 1221,
+    "timeDay": 861,
+    "timeWeek": 961,
+    "timeMonth": 1225,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2022-12-19": 56,
@@ -433,8 +434,7 @@
       "2022-01-16": 12,
       "2022-01-10": 94,
       "2022-01-03": 142,
-      "2021-12-27": 169,
-      "2021-12-20": 80
+      "2021-12-27": 169
     }
   },
   {
@@ -443,15 +443,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "96.16%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "97.73%",
-    "time": 869,
-    "timeDay": 1529,
-    "timeWeek": 950,
-    "timeMonth": 1046,
+    "time": 870,
+    "timeDay": 701,
+    "timeWeek": 932,
+    "timeMonth": 1047,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2022-12-19": 55,
@@ -529,8 +529,7 @@
       "2022-01-16": 12,
       "2022-01-10": 93,
       "2022-01-03": 142,
-      "2021-12-27": 169,
-      "2021-12-20": 80
+      "2021-12-27": 169
     }
   },
   {
@@ -545,9 +544,9 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "98.14%",
     "time": 1047,
-    "timeDay": 1806,
-    "timeWeek": 1193,
-    "timeMonth": 1237,
+    "timeDay": 990,
+    "timeWeek": 1191,
+    "timeMonth": 1243,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2022-12-19": 55,
@@ -615,8 +614,7 @@
       "2022-01-16": 11,
       "2022-01-10": 93,
       "2022-01-03": 88,
-      "2021-12-27": 168,
-      "2021-12-20": 79
+      "2021-12-27": 168
     }
   }
 ]
