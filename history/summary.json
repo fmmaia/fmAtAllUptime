@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "49.82%",
+    "uptime": "49.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 840,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-06-16": 820,
+      "2023-06-16": 891,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -426,18 +426,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "98.80%",
-    "time": 1604,
+    "uptimeYear": "98.81%",
+    "time": 1606,
     "timeDay": 791,
     "timeWeek": 1795,
     "timeMonth": 1893,
     "timeYear": 1736,
     "dailyMinutesDown": {
+      "2023-06-16": 1,
       "2023-06-12": 68,
       "2023-06-08": 45,
       "2023-06-05": 222,
@@ -516,8 +517,7 @@
       "2022-09-09": 50,
       "2022-08-30": 19,
       "2022-08-29": 19,
-      "2022-08-15": 22,
-      "2022-08-02": 34
+      "2022-08-15": 22
     }
   },
   {
@@ -526,10 +526,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.86%",
+    "uptime": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "98.79%",
     "time": 1231,
     "timeDay": 4470,
@@ -537,7 +537,6 @@
     "timeMonth": 1399,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2023-06-16": 6,
       "2023-06-12": 68,
       "2023-06-08": 44,
       "2023-06-05": 174,
@@ -613,7 +612,8 @@
       "2022-09-09": 49,
       "2022-08-29": 19,
       "2022-08-02": 33,
-      "2022-08-01": 126
+      "2022-08-01": 126,
+      "2022-07-27": 19
     }
   },
   {
