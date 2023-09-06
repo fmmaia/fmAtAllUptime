@@ -54,7 +54,7 @@
     "timeMonth": 796,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-09-06": 967,
+      "2023-09-06": 986,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -426,19 +426,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "98.26%",
-    "time": 1852,
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "98.27%",
+    "time": 1854,
     "timeDay": 4972,
     "timeWeek": 3546,
     "timeMonth": 2961,
     "timeYear": 1982,
     "dailyMinutesDown": {
-      "2023-09-06": 18,
+      "2023-09-06": 19,
       "2023-09-04": 126,
       "2023-09-02": 57,
       "2023-08-29": 30,
@@ -523,8 +523,7 @@
       "2022-10-24": 60,
       "2022-10-21": 34,
       "2022-10-17": 76,
-      "2022-10-13": 35,
-      "2022-10-10": 39
+      "2022-10-13": 35
     }
   },
   {
@@ -533,10 +532,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.06%",
+    "uptime": "99.37%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "98.27%",
     "time": 1463,
     "timeDay": 5601,
@@ -544,7 +543,7 @@
     "timeMonth": 2598,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2023-09-06": 37,
+      "2023-09-06": 26,
       "2023-09-04": 125,
       "2023-09-02": 26,
       "2023-08-29": 24,
@@ -628,7 +627,8 @@
       "2022-10-17": 76,
       "2022-10-10": 38,
       "2022-10-04": 42,
-      "2022-10-03": 144
+      "2022-10-03": 144,
+      "2022-10-02": 19
     }
   },
   {
@@ -637,18 +637,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-suite",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "98.35%",
+    "uptime": "99.40%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "98.34%",
     "time": 1545,
     "timeDay": 6440,
     "timeWeek": 3401,
     "timeMonth": 2117,
     "timeYear": 1642,
     "dailyMinutesDown": {
-      "2023-09-06": 27,
+      "2023-09-06": 16,
       "2023-09-04": 51,
       "2023-08-29": 30,
       "2023-08-28": 26,
@@ -728,7 +728,7 @@
       "2022-10-02": 89,
       "2022-10-01": 68,
       "2022-09-30": 39,
-      "2022-09-29": 30
+      "2022-09-29": 84
     }
   }
 ]
