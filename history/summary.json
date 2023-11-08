@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "43.14%",
+    "uptime": "43.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 780,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2023-11-08": 49,
+      "2023-11-08": 391,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -426,18 +426,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.01%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.00%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 2102,
     "timeDay": 788,
     "timeWeek": 2115,
     "timeMonth": 3489,
     "timeYear": 2196,
     "dailyMinutesDown": {
+      "2023-11-08": 1,
       "2023-11-06": 296,
       "2023-11-05": 6,
       "2023-10-30": 80,
@@ -521,8 +522,7 @@
       "2023-01-12": 22,
       "2023-01-11": 42,
       "2023-01-09": 58,
-      "2023-01-06": 24,
-      "2023-01-05": 34
+      "2023-01-06": 24
     }
   },
   {
@@ -530,18 +530,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.26%",
-    "time": 1797,
+    "time": 1798,
     "timeDay": 5229,
     "timeWeek": 1608,
     "timeMonth": 2820,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2023-11-08": 0,
       "2023-11-06": 230,
       "2023-11-05": 24,
       "2023-10-30": 80,
@@ -625,7 +626,7 @@
       "2023-01-02": 151,
       "2023-01-01": 56,
       "2022-12-27": 30,
-      "2022-12-26": 134
+      "2022-12-26": 106
     }
   },
   {
