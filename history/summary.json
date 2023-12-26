@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "41.30%",
+    "uptime": "41.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +54,7 @@
     "timeMonth": 733,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-12-26": 49,
+      "2023-12-26": 377,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -426,18 +426,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "98.11%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "99.19%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.27%",
-    "time": 2130,
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.28%",
+    "time": 2131,
     "timeDay": 888,
     "timeWeek": 1784,
     "timeMonth": 2391,
     "timeYear": 2291,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-12-25": 27,
       "2023-12-22": 55,
       "2023-12-18": 111,
@@ -520,8 +521,7 @@
       "2023-02-20": 60,
       "2023-02-13": 94,
       "2023-02-11": 39,
-      "2023-02-10": 49,
-      "2023-02-07": 34
+      "2023-02-10": 49
     }
   },
   {
