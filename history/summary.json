@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "41.04%",
+    "uptime": "41.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 746,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-01-02": 137,
+      "2024-01-02": 440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
@@ -426,19 +426,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "98.27%",
-    "time": 2155,
+    "uptimeYear": "98.28%",
+    "time": 2157,
     "timeDay": 3309,
-    "timeWeek": 2662,
-    "timeMonth": 2689,
+    "timeWeek": 2360,
+    "timeMonth": 2719,
     "timeYear": 2276,
     "dailyMinutesDown": {
-      "2024-01-02": 37,
+      "2024-01-02": 38,
       "2023-12-31": 71,
       "2023-12-25": 27,
       "2023-12-22": 55,
@@ -520,8 +520,7 @@
       "2023-02-24": 41,
       "2023-02-21": 68,
       "2023-02-20": 60,
-      "2023-02-13": 94,
-      "2023-02-11": 39
+      "2023-02-13": 94
     }
   },
   {
@@ -529,13 +528,13 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.16%",
-    "time": 1830,
+    "time": 1831,
     "timeDay": 724,
     "timeWeek": 1656,
     "timeMonth": 2184,
@@ -626,8 +625,7 @@
       "2023-02-03": 135,
       "2023-02-02": 32,
       "2023-01-31": 36,
-      "2023-01-30": 393,
-      "2023-01-25": 16
+      "2023-01-30": 393
     }
   },
   {
