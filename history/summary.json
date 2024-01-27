@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "40.14%",
+    "uptime": "40.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 744,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-01-27": 927,
+      "2024-01-27": 1118,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -424,18 +424,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 2391,
     "timeDay": 617,
     "timeWeek": 2059,
     "timeMonth": 3688,
     "timeYear": 2460,
     "dailyMinutesDown": {
+      "2024-01-27": 0,
       "2024-01-22": 68,
       "2024-01-16": 139,
       "2024-01-15": 103,
@@ -516,8 +517,7 @@
       "2023-03-24": 37,
       "2023-03-20": 56,
       "2023-03-19": 81,
-      "2023-03-13": 59,
-      "2023-03-11": 58
+      "2023-03-13": 59
     }
   },
   {
@@ -527,17 +527,16 @@
     "slug": "site-nxtc-ats",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.23%",
     "time": 1899,
     "timeDay": 5540,
     "timeWeek": 2265,
     "timeMonth": 2419,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2024-01-27": 6,
       "2024-01-22": 67,
       "2024-01-16": 36,
       "2024-01-15": 103,
@@ -622,7 +621,8 @@
       "2023-02-21": 68,
       "2023-02-20": 60,
       "2023-02-13": 93,
-      "2023-02-11": 20
+      "2023-02-11": 20,
+      "2023-02-10": 49
     }
   },
   {
