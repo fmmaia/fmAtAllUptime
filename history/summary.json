@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "40.12%",
+    "uptime": "40.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 744,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2024-01-28": 52,
+      "2024-01-28": 359,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -424,18 +424,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "98.28%",
-    "time": 2399,
+    "uptimeYear": "98.29%",
+    "time": 2401,
     "timeDay": 3783,
     "timeWeek": 2095,
     "timeMonth": 3715,
-    "timeYear": 2459,
+    "timeYear": 2462,
     "dailyMinutesDown": {
+      "2024-01-28": 1,
       "2024-01-22": 68,
       "2024-01-16": 139,
       "2024-01-15": 103,
@@ -516,8 +517,7 @@
       "2023-03-24": 37,
       "2023-03-20": 56,
       "2023-03-19": 81,
-      "2023-03-13": 59,
-      "2023-03-11": 58
+      "2023-03-13": 59
     }
   },
   {
@@ -525,18 +525,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.23%",
-    "time": 1906,
+    "uptimeYear": "98.24%",
+    "time": 1908,
     "timeDay": 7258,
     "timeWeek": 2699,
     "timeMonth": 2510,
-    "timeYear": 2011,
+    "timeYear": 2012,
     "dailyMinutesDown": {
+      "2024-01-28": 1,
       "2024-01-22": 67,
       "2024-01-16": 36,
       "2024-01-15": 103,
@@ -621,8 +622,7 @@
       "2023-02-21": 68,
       "2023-02-20": 60,
       "2023-02-13": 93,
-      "2023-02-11": 20,
-      "2023-02-10": 49
+      "2023-02-11": 20
     }
   },
   {
@@ -640,7 +640,7 @@
     "timeDay": 4713,
     "timeWeek": 1564,
     "timeMonth": 2112,
-    "timeYear": 1855,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2024-01-22": 67,
       "2024-01-16": 35,
