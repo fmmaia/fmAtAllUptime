@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "39.98%",
+    "uptime": "39.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 757,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2024-02-01": 51,
+      "2024-02-01": 1119,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -424,18 +424,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "98.27%",
-    "time": 2441,
+    "uptimeYear": "98.28%",
+    "time": 2444,
     "timeDay": 616,
     "timeWeek": 3458,
     "timeMonth": 3936,
     "timeYear": 2490,
     "dailyMinutesDown": {
+      "2024-02-01": 1,
       "2024-01-29": 87,
       "2024-01-22": 68,
       "2024-01-16": 139,
@@ -516,8 +517,7 @@
       "2023-03-25": 114,
       "2023-03-24": 37,
       "2023-03-20": 56,
-      "2023-03-19": 81,
-      "2023-03-13": 59
+      "2023-03-19": 81
     }
   },
   {
@@ -525,18 +525,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc-ats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "98.22%",
-    "time": 1918,
+    "uptimeYear": "98.23%",
+    "time": 1919,
     "timeDay": 571,
     "timeWeek": 3450,
     "timeMonth": 2731,
     "timeYear": 2029,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2024-01-29": 87,
       "2024-01-22": 67,
       "2024-01-16": 36,
@@ -621,8 +622,7 @@
       "2023-02-24": 41,
       "2023-02-21": 68,
       "2023-02-20": 60,
-      "2023-02-13": 93,
-      "2023-02-11": 20
+      "2023-02-13": 93
     }
   },
   {
