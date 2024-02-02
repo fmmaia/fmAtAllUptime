@@ -52,7 +52,7 @@
     "timeMonth": 748,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2024-02-02": 460,
+      "2024-02-02": 473,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -424,16 +424,16 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-nxtc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "92.24%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "97.92%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 2439,
     "timeDay": 858,
     "timeWeek": 2958,
-    "timeMonth": 3733,
+    "timeMonth": 3711,
     "timeYear": 2482,
     "dailyMinutesDown": {
       "2024-02-02": 48,
@@ -516,8 +516,7 @@
       "2023-04-03": 139,
       "2023-03-27": 97,
       "2023-03-25": 114,
-      "2023-03-24": 37,
-      "2023-03-20": 56
+      "2023-03-24": 37
     }
   },
   {
@@ -527,17 +526,17 @@
     "slug": "site-nxtc-ats",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.23%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.22%",
     "time": 1935,
     "timeDay": 2388,
     "timeWeek": 3271,
     "timeMonth": 2747,
     "timeYear": 2034,
     "dailyMinutesDown": {
-      "2024-02-02": 53,
+      "2024-02-02": 47,
       "2024-02-01": 63,
       "2024-01-29": 87,
       "2024-01-22": 67,
@@ -621,7 +620,8 @@
       "2023-03-06": 193,
       "2023-02-27": 103,
       "2023-02-24": 41,
-      "2023-02-21": 68
+      "2023-02-21": 68,
+      "2023-02-20": 60
     }
   },
   {
@@ -633,12 +633,12 @@
     "uptime": "99.46%",
     "uptimeDay": "91.88%",
     "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "98.28%",
     "time": 1807,
     "timeDay": 2404,
     "timeWeek": 3155,
-    "timeMonth": 2429,
+    "timeMonth": 2460,
     "timeYear": 1857,
     "dailyMinutesDown": {
       "2024-02-02": 47,
