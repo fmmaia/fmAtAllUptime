@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 90,
-    "timeWeek": 102,
-    "timeMonth": 98,
-    "timeYear": 106,
+    "timeDay": 133,
+    "timeWeek": 112,
+    "timeMonth": 99,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 71,
-    "timeWeek": 185,
-    "timeMonth": 231,
+    "timeDay": 373,
+    "timeWeek": 211,
+    "timeMonth": 237,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-mail",
     "status": "down",
-    "uptime": "38.00%",
+    "uptime": "37.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 800,
-    "timeDay": 1021,
-    "timeWeek": 800,
-    "timeMonth": 751,
+    "timeDay": 662,
+    "timeWeek": 818,
+    "timeMonth": 748,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-04-01": 838,
+      "2024-04-02": 52,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -415,8 +416,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -426,17 +426,17 @@
     "slug": "site-nxtc",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "83.80%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "98.10%",
-    "time": 2467,
-    "timeDay": 3099,
-    "timeWeek": 4645,
-    "timeMonth": 3129,
-    "timeYear": 2633,
+    "uptimeDay": "84.22%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "98.09%",
+    "time": 2469,
+    "timeDay": 2989,
+    "timeWeek": 3961,
+    "timeMonth": 3159,
+    "timeYear": 2636,
     "dailyMinutesDown": {
-      "2024-04-01": 233,
+      "2024-04-01": 227,
       "2024-03-26": 32,
       "2024-03-25": 80,
       "2024-03-24": 58,
@@ -515,7 +515,8 @@
       "2023-07-02": 1440,
       "2023-07-01": 786,
       "2023-06-27": 21,
-      "2023-06-26": 96
+      "2023-06-26": 96,
+      "2023-06-19": 88
     }
   },
   {
@@ -525,17 +526,17 @@
     "slug": "site-nxtc-ats",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "98.01%",
-    "time": 2093,
-    "timeDay": 617,
-    "timeWeek": 3799,
-    "timeMonth": 2575,
-    "timeYear": 2203,
+    "uptimeDay": "84.25%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "98.00%",
+    "time": 2087,
+    "timeDay": 595,
+    "timeWeek": 3356,
+    "timeMonth": 2553,
+    "timeYear": 2204,
     "dailyMinutesDown": {
-      "2024-04-01": 233,
+      "2024-04-01": 227,
       "2024-03-26": 16,
       "2024-03-25": 79,
       "2024-03-24": 58,
@@ -622,7 +623,8 @@
       "2023-05-01": 178,
       "2023-04-24": 81,
       "2023-04-23": 19,
-      "2023-04-17": 74
+      "2023-04-17": 74,
+      "2023-04-10": 84
     }
   },
   {
@@ -632,17 +634,17 @@
     "slug": "site-suite",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "89.75%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "90.10%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "98.31%",
-    "time": 1934,
-    "timeDay": 1273,
-    "timeWeek": 2070,
+    "time": 1932,
+    "timeDay": 1158,
+    "timeWeek": 1707,
     "timeMonth": 2457,
     "timeYear": 2008,
     "dailyMinutesDown": {
-      "2024-04-01": 148,
+      "2024-04-01": 143,
       "2024-03-31": 328,
       "2024-03-25": 79,
       "2024-03-24": 57,
@@ -721,8 +723,7 @@
       "2023-04-17": 74,
       "2023-04-10": 84,
       "2023-04-06": 57,
-      "2023-04-05": 24,
-      "2023-04-03": 68
+      "2023-04-05": 24
     }
   }
 ]
